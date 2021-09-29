@@ -1,0 +1,30 @@
+{
+    "idleHeartbeats": 7838,
+    "navigatingHeartbeats": 1411,
+    "totalCodingHeartbeats": 28778,
+    "languageHeartbeats": {
+        "plaintext": 89,
+        "markdown": 2552,
+        "json": 337,
+        "html": 6916,
+        "jsonc": 145,
+        "scss": 18559,
+        "scminput": 104,
+        "css": 76
+    },
+    "fileHeartbeats": {
+        "Untitled-1": 86,
+        "/tmp/mine-cached/advanced-css-course/Trillo/notes/notes.md": 2552,
+        "package.json": 337,
+        "index.html": 6916,
+        "/home/drzoid/.config/Code/User/settings.json": 145,
+        "sass/_base.scss": 2916,
+        "sass/main.scss": 34,
+        "sass/_layout.scss": 2419,
+        "scm/git/scm0/input": 104,
+        "sass/_components.scss": 12331,
+        "/tmp/mine-cached/advanced-css-course/Trillo/final/sass/_base.scss": 782,
+        "css/style.css": 76,
+        "/tmp/mine-cached/advanced-css-course/Trillo/starter/sass/_components.scss.git": 80
+    }
+}

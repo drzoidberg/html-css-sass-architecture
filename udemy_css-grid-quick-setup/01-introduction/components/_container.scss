@@ -1,0 +1,19 @@
+.container {
+  background-color: $color--white;
+  width: 100rem;
+  margin: 3rem auto;
+  padding: 3rem;
+  border-radius: .5rem;
+
+  display: grid;
+  grid-template-columns: repeat(3, 30rem);
+  grid-template-rows: repeat(2, 30rem);
+
+  // grid-template-columns: repeat(2, 20rem) 1fr;
+  // grid-template-rows: repeat(2, 20rem);
+  // grid-row-gap: 1rem;
+  // grid-column-gap: .5rem;
+  grid-gap: 2rem;
+}
+
+

@@ -1,0 +1,41 @@
+.item {
+  padding: 2rem;
+  font-size: 3rem;
+  font-family: sans-serif;
+  color: $color--white;
+  border-radius: .5rem;
+
+  &--1 {
+    background-color: $color--orange;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 2;
+    grid-column-end: 3;
+  }
+
+  &--2 {
+    background-color: $color--green;
+  }
+
+  &--3 {
+    background-color: $color--violet;
+  }
+
+  &--4 {
+    background-color: $color--pink;
+  }
+
+  &--5 {
+    background-color: $color--blue;
+    grid-column: 3 / 4;
+    grid-row: 1 / 2;
+  }
+
+  &--6 {
+    background-color: $color--brown;
+    grid-column: 1 / 3;
+    grid-row: 1 / 2;
+
+  }
+
+}

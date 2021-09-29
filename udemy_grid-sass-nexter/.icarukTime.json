@@ -1,0 +1,37 @@
+{
+    "idleHeartbeats": 6009,
+    "navigatingHeartbeats": 802,
+    "totalCodingHeartbeats": 17023,
+    "languageHeartbeats": {
+        "scminput": 116,
+        "scss": 11233,
+        "json": 111,
+        "html": 3825,
+        "plaintext": 672,
+        "markdown": 894,
+        "jsonc": 172
+    },
+    "fileHeartbeats": {
+        "scm/git/scm0/input": 116,
+        "sass/_base.scss": 2257,
+        "package.json": 111,
+        "index.html": 3780,
+        "/tmp/mine-cached/advanced-css-course/Nexter/starter/sass/_base.scss.git": 107,
+        "notes/notes.md": 894,
+        "sass/_header.scss": 1513,
+        "sass/_story.scss": 2424,
+        "/home/drzoid/.config/Code/User/keybindings.json": 127,
+        "sass/_features.scss": 1504,
+        "/tmp/mine-cached/advanced-css-course/Nexter/starter/sass/_features.scss.git": 73,
+        "/tmp/mine-cached/advanced-css-course/Nexter/starter/sass/_story.scss.git": 52,
+        "Untitled-1": 45,
+        "sass/_homes.scss": 1337,
+        "/home/drzoid/.config/Code/User/settings.json": 45,
+        "sass/_gallery.scss": 303,
+        "/tmp/mine-cached/advanced-css-course/Nexter/starter/sass/_gallery.scss.git": 51,
+        "sass/_footer.scss": 989,
+        "sass/_sidebar.scss": 407,
+        "/tmp/mine-cached/advanced-css-course/Nexter/starter/sass/_header.scss.git": 389,
+        "sass/_realtors.scss": 499
+    }
+}

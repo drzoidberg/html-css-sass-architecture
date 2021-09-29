@@ -1,0 +1,11 @@
+.box {
+  background-color: $color--brown;
+  color: $color--white;
+  padding: 1rem;
+  font-weight: 800;
+}
+
+.small-box {
+  grid-template-columns: 1 / 4;
+  grid-template-rows: 2 / 3;
+}

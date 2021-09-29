@@ -1,0 +1,27 @@
+{
+    "idleHeartbeats": 4303,
+    "navigatingHeartbeats": 467,
+    "totalCodingHeartbeats": 10028,
+    "languageHeartbeats": {
+        "html": 956,
+        "json": 651,
+        "scss": 4587,
+        "ignore": 52,
+        "markdown": 3782
+    },
+    "fileHeartbeats": {
+        "index.html": 956,
+        "package.json": 651,
+        "sass/main.scss": 604,
+        "sass/components/.container.scss": 336,
+        "sass/components/_container.scss": 1498,
+        "sass/abstracts/_variables.scss": 393,
+        ".gitignore": 52,
+        "notes/notes.md": 3782,
+        "sass/components/_item.scss": 809,
+        "sass/components/_footer.scss": 305,
+        "sass/components/_header.scss": 262,
+        "sass/components/_sidebar.scss": 58,
+        "sass/components/_box.scss": 322
+    }
+}
